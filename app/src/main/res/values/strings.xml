@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Agenda_Contactos</string>
+    <!-- Mensajes de error
+    , el name del string no debe tener espacios-->
+    <string name="campos_vacios">"Field vashios Weyy!!\n "</string>
+    <!-- Mensajes de Info -->
+    <string name="guardado_correcto">"Your data cousin it´s not Ok WEYY!!\n\n    "</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Mensajes de error
+, el name del string no debe tener espacios-->
+    <string name="campos_vacios">
+        Campos vacios, intente de nuevo WEYY!!
+    </string>
+    <!-- Mensajes de Info -->
+    <string name="guardado_correcto">
+        Tus datos pinche wey se han guardado correctamente
+    </string>
+    <string name="app_name">Agenda_Contactos</string>
+</resources>
